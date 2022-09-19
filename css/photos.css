@@ -6,7 +6,7 @@ img{
 
 img:hover{
     filter: grayscale(0%);
-    transition: 2s;
+    transition: 10s;
 }
 
 h1{
