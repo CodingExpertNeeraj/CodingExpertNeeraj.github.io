@@ -31,3 +31,6 @@
 .contain{
   margin-top: 70px;
 }
+li>a:hover{
+  color: red;
+}
